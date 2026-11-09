@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you reference the MSAM framework, please cite it as below."
+title: "MSAM: Modern SIEM Architecture Models"
+abstract: >-
+  A framework that classifies SIEM architectures by where the primary control
+  point sits (Converged, Observability-Connected, Pipeline-First, Data Platform,
+  and Federated), with a decision guide and proof-of-concept checklist for
+  security teams. First published by Software Analyst Cyber Research (SACR).
+type: dataset
+authors:
+  - given-names: Uche
+    family-names: Obiora
+    affiliation: "Software Analyst Cyber Research (SACR)"
+date-released: 2026-10-15
+url: "https://github.com/matthewobiora/MSAM-Framework"
+keywords:
+  - SIEM
+  - security operations
+  - SOC
+  - AI SOC
+  - security data architecture
+  - detection engineering
+references:
+  - type: article
+    title: "The SIEM Problem Has Become an Architecture Problem"
+    authors:
+      - given-names: Uche
+        family-names: Obiora
+    publisher:
+      name: "Software Analyst Cyber Research (SACR)"
+    url: "https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture"
+    year: 2026
