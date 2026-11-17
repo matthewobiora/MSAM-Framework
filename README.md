@@ -7,7 +7,9 @@
 ![Published](https://img.shields.io/badge/Published-SACR_Oct_2026-FF6719?style=flat-square&logo=substack&logoColor=white)
 ![Author](https://img.shields.io/badge/Author-Uche_Obiora-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-> 📖 **Full report:** [*The SIEM Problem Has Become an Architecture Problem*](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture), Software Analyst Cyber Research (SACR), October 2026.
+> 📖 **Part I (the framework):** [*The SIEM Problem Has Become an Architecture Problem*](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture), Software Analyst Cyber Research (SACR), October 2026.
+>
+> 📖 **Part II (vendor analysis):** [*The Five Emerging SIEM Architectures*](https://softwareanalyst.io/reports/the-future-of-siem-part-ii-the-five-emerging-siem-architectures), SACR, November 2026. Applies MSAM to 19 vendors (co-authored with Sean Sosnowski).
 >
 > This repository is a structured, practitioner-friendly companion to that report: the framework, the five models, and a decision and proof-of-concept (POC) toolkit security teams can reuse.
 
