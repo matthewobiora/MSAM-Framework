@@ -143,6 +143,12 @@ flowchart LR
 
 ---
 
+## Related Work
+
+- 🪪 [**ICC: Identity Coverage Chain**](https://github.com/matthewobiora/ICC-Framework), my framework for measuring whether identity controls reach, control, and prove application-level access
+
+---
+
 ## Author
 
 **Uche Obiora** is a Security Research Analyst at Software Analyst Cyber Research (SACR), researching SIEM modernization, AI-driven security operations, and identity security.
